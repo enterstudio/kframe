@@ -9,9 +9,9 @@
     "aframe-animation-component": "^0.3.2",
     "aframe-bmfont-text-component": "^0.1.2",
     "browserify": "^13.0.1",
-    "budo": "^8.2.2",
+    "budo": "^10.0.0",
     "d3": "^4.1.1",
-    "superagent": "^1.8.3",
+    "superagent": "^3.8.1",
     "superagent-promise-plugin": "^3.2.0",
     "urlgray": "^0.2.3"
   }
