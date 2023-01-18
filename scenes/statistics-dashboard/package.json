@@ -11,7 +11,7 @@
     "browserify": "^13.0.1",
     "budo": "^8.2.2",
     "d3": "^4.1.1",
-    "superagent": "^1.8.3",
+    "superagent": "^2.0.0",
     "superagent-promise-plugin": "^3.2.0",
     "urlgray": "^0.2.3"
   }
